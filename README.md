@@ -1,7 +1,7 @@
 #  PhD Candidate UCLA 
 
 ### Education
-PhD Candidate UCLA Anderson, 2020 - Present 
+PhD Finance Candidate, UCLA Anderson, 2020 - Present 
 
 BA Economics, UC Berkeley, 2014 - 2018 
 
