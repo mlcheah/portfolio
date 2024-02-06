@@ -1,4 +1,4 @@
-#  PhD Candidate UCLA 
+#  PhD Candidate UCLA Anderson
 
 ### Education
 PhD Finance Candidate, UCLA Anderson, 2020 - Present 
