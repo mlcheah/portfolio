@@ -41,4 +41,8 @@ This project investigates the causal effect of top influencers' sentiments on th
 
 This project delves into the influence of social media narratives on real estate prices, employing Latent Dirichlet Allocation (LDA) modeling to dissect and understand the thematic structures within vast amounts of Twitter data
 
+### Quantifying the Impact of Economic Changes on Migration Patterns: A Panel VAR Approach"
+[Slides](https://github.com/mlcheah/portfolio/blob/main/project_code/panelVAR_project.pdf)
+
+In this project, we applied a second-order Panel VAR model to examine the relationship between immigration and economic indicators, such as GDP per capita and unemployment rates, across nine host countries using data from 1991-2011. Utilizing advanced econometric techniques, including Helmert procedure and GMM estimation, we addressed non-stationarity issues and isolated the effects of economic variables on migration flows. The findings highlight the sensitivity of migration patterns to economic conditions, offering insights into the causal dynamics between host country economic states and immigration trends.
 
