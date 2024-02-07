@@ -27,7 +27,7 @@
 
 ## Projects 
 ### Network Analysis of Top Influencers Using Twitter Data
-[Code](https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/mlcheah/portfolio/blob/main/project_code/network_analysis.ipynb)
+[Code](https://github.com/mlcheah/portfolio/blob/main/project_code/network_analysis.ipynb)
 
 In this project, I utilized Python's NetworkX library to deploy graph theory methodologies for a comprehensive analysis and visualization of influencer engagement networks extracted from a vast Twitter dataset. This involved constructing and examining network graphs to uncover the intricacies of communication flows and influence patterns among key stakeholders in the digital space. By mapping these interactions, the project shed light on the structural dynamics of social media influence, highlighting central nodes and pathways of information dissemination.
 
