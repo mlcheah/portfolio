@@ -28,7 +28,7 @@ This project explores the causal relationship between top Twitter influencers' s
 In this project, I applied a second-order Panel VAR model to examine the relationship between immigration and economic indicators, such as GDP per capita and unemployment rates, across nine host countries using data from 1991-2011. Utilizing advanced econometric techniques, including Helmert procedure and GMM estimation, I addressed non-stationarity issues and isolated the effects of economic variables on migration flows. The findings highlight the sensitivity of migration patterns to economic conditions, offering insights into the causal dynamics between host country economic states and immigration trends.
 
 ### Cleantech
-[Slides](https://drive.google.com/file/d/1SliFnsmI626Vtv4kn6dUQXJSlh7LAvFt/view?usp=drive_link](https://drive.google.com/file/d/1M0j-qLO2n_tPtNeiqG2zzOqd74dXbaRu/view?usp=drive_link)
+[Slides](https://drive.google.com/file/d/1M0j-qLO2n_tPtNeiqG2zzOqd74dXbaRu/view?usp=drive_link)
 
 Leveraging Crunchbase's extensive deal-level dataset from 2010-2021, I applied sophisticated data science methodologies, including difference-in-differences and synthetic control methods, to evaluate the impact of clean energy policy uncertainty on venture capital funding within the cleantech domain.
 
