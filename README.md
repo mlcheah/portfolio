@@ -13,7 +13,7 @@
 In this project, I utilized Python's NetworkX library to deploy graph theory methodologies for a comprehensive analysis and visualization of influencer engagement networks extracted from 1.2 million real-estate related Tweets. This involved constructing and examining network graphs to reveal communication patterns among top influencers on Twitter. By mapping these interactions, the project sheds light on the structural dynamics of social media influence. 
 
 ### Analyzing Real Estate Market Dynamics through Social Media Narratives: A Data Science Approach with BERTopic Modeling
-[Code] To be published soon
+[Code](https://github.com/mlcheah/portfolio/blob/main/project_code/bert_portfolio.py)
 
 This project delves into the influence of social media narratives on real estate prices, employing BERTopic and LDA topic modeling to dissect and understand the thematic structures within 5.8 million Tweets related to real estate.
 
