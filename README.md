@@ -22,15 +22,15 @@ This project delves into the influence of social media narratives on real estate
 
 This project explores the causal relationship between top Twitter influencers' sentiments and their impact on follower sentiments in the real estate sector, utilizing an instrumental variable approach to mitigate endogeneity. By quantitatively measuring tweet sentiments using VADER, the study examines the directional influence of top influencers on the sentiment of their engaged connections. My analysis demonstrated a clear linkage: sentiments of top influencers significantly affect their followers' sentiments, which in turn impacts housing market prices. This finding highlights the substantial influence of digital discourse on real estate trends.
 
-### Quantifying the Impact of Economic Changes on Migration Patterns: A Panel VAR Approach
-[Slides](https://drive.google.com/file/d/1SliFnsmI626Vtv4kn6dUQXJSlh7LAvFt/view?usp=drive_link)
-
-In this project, I applied a second-order Panel VAR model to examine the relationship between immigration and economic indicators, such as GDP per capita and unemployment rates, across nine host countries using data from 1991-2011. Utilizing advanced econometric techniques, including Helmert procedure and GMM estimation, I addressed non-stationarity issues and isolated the effects of economic variables on migration flows. The findings highlight the sensitivity of migration patterns to economic conditions, offering insights into the causal dynamics between host country economic states and immigration trends.
-
 ### Quantitative Analysis of Policy Uncertainty Impact on Cleantech Venture Capital Funding Using Difference-in-Differences and Synthetic Control Methods
 [Slides](https://drive.google.com/file/d/1M0j-qLO2n_tPtNeiqG2zzOqd74dXbaRu/view?usp=drive_link)
 
 Leveraging Crunchbase's extensive deal-level dataset from 2010-2021, I applied sophisticated data science methodologies, including difference-in-differences and synthetic control methods, to evaluate the impact of clean energy policy uncertainty on venture capital funding within the cleantech domain.
+
+### Quantifying the Impact of Economic Changes on Migration Patterns: A Panel VAR Approach
+[Slides](https://drive.google.com/file/d/1SliFnsmI626Vtv4kn6dUQXJSlh7LAvFt/view?usp=drive_link)
+
+In this project, I applied a second-order Panel VAR model to examine the relationship between immigration and economic indicators, such as GDP per capita and unemployment rates, across nine host countries using data from 1991-2011. Utilizing advanced econometric techniques, including Helmert procedure and GMM estimation, I addressed non-stationarity issues and isolated the effects of economic variables on migration flows. The findings highlight the sensitivity of migration patterns to economic conditions, offering insights into the causal dynamics between host country economic states and immigration trends.
 
 ## Work Experience 
 **Graduate Researcher @ UCLA Anderson, Los Angeles (_Sep 2020 - Present_)**
