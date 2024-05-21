@@ -18,7 +18,7 @@ In this project, I utilized Python's NetworkX library to deploy graph theory met
 This project delves into the influence of social media narratives on real estate prices, employing BERTopic and LDA topic modeling to dissect and understand the thematic structures within 5.8 million Tweets related to real estate.
 
 ### Influencer Sentiment Impact on Followers and Housing Market: A Causal Inference Analysis Using Instrumental Variables
-[Slides](https://drive.google.com/file/d/1Khq5yeqj5lEdjP-GpIT9TGQmkuxhYc0a/view?usp=drive_link)
+[Slides](https://drive.google.com/file/d/1g5O3TfNv4gH--EKK3eSh42k9ib91S1kg/view?usp=sharing)
 
 This project explores the causal relationship between top Twitter influencers' sentiments and their impact on follower sentiments in the real estate sector, utilizing an instrumental variable approach to mitigate endogeneity. By quantitatively measuring tweet sentiments using VADER, the study examines the directional influence of top influencers on the sentiment of their engaged connections. My analysis demonstrated a clear linkage: sentiments of top influencers significantly affect their followers' sentiments, which in turn impacts housing market prices. This finding highlights the substantial influence of digital discourse on real estate trends.
 
