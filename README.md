@@ -15,7 +15,7 @@ In this project, I utilized Python's NetworkX library to deploy graph theory met
 ### Analyzing Real Estate Market Dynamics through Social Media Narratives: A Data Science Approach with BERTopic Modeling
 [Code](https://github.com/mlcheah/portfolio/blob/main/project_code/bert_portfolio.py)
 
-This project delves into the influence of social media narratives on real estate prices, employing BERTopic and LDA topic modeling to dissect and understand the thematic structures within 5.8 million Tweets related to real estate.
+This project delves into the influence of social media narratives on real estate prices, employing textual analysis models such as BERTopic and LDA topic modeling to dissect and understand the thematic structures within 5.8 million Tweets related to real estate.
 
 ### Influencer Sentiment Impact on Followers and Housing Market: A Causal Inference Analysis Using Instrumental Variables
 [Slides](https://drive.google.com/file/d/1g5O3TfNv4gH--EKK3eSh42k9ib91S1kg/view?usp=sharing)
@@ -24,6 +24,7 @@ This project explores the causal relationship between top Twitter influencers' s
 
 ### Quantitative Analysis of Policy Uncertainty Impact on Cleantech Venture Capital Funding Using Difference-in-Differences and Synthetic Control Methods
 [Slides](https://drive.google.com/file/d/1M0j-qLO2n_tPtNeiqG2zzOqd74dXbaRu/view?usp=drive_link)
+[Paper](https://drive.google.com/file/d/1fJQi4vHRiqARR-3U3lv9QZNYZbGk4THy/view?usp=drive_link)
 
 Leveraging Crunchbase's extensive deal-level dataset from 2010-2021, I applied sophisticated data science methodologies, including difference-in-differences and synthetic control methods, to evaluate the impact of clean energy policy uncertainty on venture capital funding within the cleantech domain.
 
